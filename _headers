@@ -1,0 +1,13 @@
+# Headers for Netlify deployment
+/widget.js
+  Cross-Origin-Resource-Policy: cross-origin
+  Access-Control-Allow-Origin: *
+  Content-Type: application/javascript
+
+/widget.html
+  Cross-Origin-Embedder-Policy: unsafe-none
+  Cross-Origin-Resource-Policy: cross-origin
+
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff

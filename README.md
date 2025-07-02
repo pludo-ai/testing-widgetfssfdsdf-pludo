@@ -2,7 +2,7 @@
 
 Testing widget
 
-## Features
+## Features 
 
 - 🤖 Intelligent AI-powered conversations using OpenRouter
 - 💬 Real-time chat interface

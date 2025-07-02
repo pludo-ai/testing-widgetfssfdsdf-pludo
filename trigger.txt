@@ -1,0 +1,11 @@
+# Deployment Trigger
+
+This file was created to trigger a new deployment.
+
+Agent: Testing widget
+Brand: Testing widget
+Subdomain: testing-widgetfssfdsdf.pludo.online
+Triggered at: 2025-07-02T05:14:26.637Z
+Trigger ID: w7jcxbzqe
+
+This file can be safely deleted after deployment completes.
